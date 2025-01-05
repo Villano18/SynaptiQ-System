@@ -1,4 +1,4 @@
-# Aether Framework Usage
+# SynaptiQ Framework Usage
 
 ## Getting Started
 
