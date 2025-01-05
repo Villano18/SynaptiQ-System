@@ -1,8 +1,8 @@
-# **Aether Framework**
+# **SynaptiQ Framework**
 
 ### **Revolutionizing AI with Decentralized Intelligence**
 
-**Aether Framework** is an open-source platform for building modular, scalable, and decentralized AI systems. It’s designed for developers to create autonomous agents with capabilities such as task delegation, multi-modal processing, swarm intelligence, and blockchain integration.
+**SynaptiQ Framework** is an open-source platform for building modular, scalable, and decentralized AI systems. It’s designed for developers to create autonomous agents with capabilities such as task delegation, multi-modal processing, swarm intelligence, and blockchain integration.
 
 This project isn’t just a framework; it’s a showcase of collaborative innovation between human creators and AI agents. Every component of this repository has been conceptualized, designed, and refined through the synergy of human oversight and machine intelligence.
 
